@@ -30,9 +30,9 @@ class MainActivity : AppCompatActivity(), onClickitem {
     fun fetchdata() {
 
 //
-//        val api="e93846fb9e4579eba1e14825650f208c"
+//
         val url =
-           "https://gnews.io/api/v4/search?q=example&token=3b775e0013422d8549b9607b659758f6&lang=en"
+           "https://gnews.io/api/v4/search?q=example&token="
 //        val queue = Volley.newRequestQueue(this)
         Log.e("MainActivity", "url")
         val jsonRequest = JsonObjectRequest(
