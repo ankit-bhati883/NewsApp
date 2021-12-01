@@ -1,15 +1,7 @@
 # NewsApp
 
 # Overview
-As it name says it is a kotlin based News App
-
--> Kotlin Based
-
-->Use Volley Library
-
-->Show latest news
-
--> use gnews.io Api
+As it name says it is a kotlin based News App. It Fatches data from gnews.io Api using Volley Library
 
 # Preview
 
